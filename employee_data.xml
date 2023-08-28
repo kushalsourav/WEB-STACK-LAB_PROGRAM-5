@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="1">
+        <personalInfo>
+            <firstName>Tim</firstName>
+            <lastName>Cook</lastName>
+            <dateOfBirth>1985-02-25</dateOfBirth>
+            <gender>Male</gender>
+        </personalInfo>
+        <employmentInfo>
+            <position>CEO</position>
+            <salary>500000</salary>
+        </employmentInfo>
+        <contactInfo>
+            <email>timcook@example.com</email>
+            <phoneNumber>486341234</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee id="2">
+        <personalInfo>
+            <firstName>Mathew</firstName>
+            <lastName>Wade</lastName>
+            <dateOfBirth>1980-05-15</dateOfBirth>
+            <gender>Male</gender>
+        </personalInfo>
+        <employmentInfo>
+            <position>Manager</position>
+            <salary>90000</salary>
+        </employmentInfo>
+        <contactInfo>
+            <email>mathewwade@example.com</email>
+            <phoneNumber>58942672</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee id="3">
+        <personalInfo>
+            <firstName>Starc</firstName>
+            <lastName>Johnson</lastName>
+            <dateOfBirth>1994-02-16</dateOfBirth>
+            <gender>Male</gender>
+        </personalInfo>
+        <employmentInfo>
+            <position>Developer</position>
+            <salary>50000</salary>
+        </employmentInfo>
+        <contactInfo>
+            <email>starcjohnson@example.com</email>
+            <phoneNumber>26789459</phoneNumber>
+        </contactInfo>
+    </employee>
+</employees>
